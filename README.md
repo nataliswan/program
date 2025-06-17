@@ -7,3 +7,5 @@
 Самостоятельная работа 1: https://github.com/nataliswan/program/tree/main/sr%201
 
 Лабораторная работа 3: https://github.com/nataliswan/program/tree/main/lab%203
+
+Лабораторная работа 4: https://github.com/nataliswan/program/tree/main/lab%204
