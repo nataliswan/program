@@ -9,3 +9,5 @@
 Лабораторная работа 3: https://github.com/nataliswan/program/tree/main/lab%203
 
 Лабораторная работа 4: https://github.com/nataliswan/program/tree/main/lab%204
+
+Лабораторная работа по Rust 1: https://github.com/nataliswan/program/tree/main/lab%201%20(rust)
